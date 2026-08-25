@@ -1,8 +1,4 @@
-# Collaboration Demo Project
+## Feature description
 
-This project is used to practice Git and GitHub collaboration workflows.
-
-## How to contribute
-- Open an issue
-- Create a branch
-- Submit a pull request
+This project demonstrates a simple collaborative workflow. Contributors can propose changes through Issues, implement them in separate branches,
+submit Pull Requests, participate in Code Review, and verify changes through CI.
