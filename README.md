@@ -10,7 +10,7 @@ This project demonstrates a simple collaborative workflow. Contributors can prop
 
 1. Open an Issue describing the proposed change.
 2. Create a separate branch for the Issue.
-3. Make only the required changes.
+3. Make the required changes.
 4. Commit and push the changes.
 5. Open a Pull Request.
 6. Participate in Code Review.
